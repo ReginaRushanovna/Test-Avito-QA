@@ -19,13 +19,13 @@ def test_second_case():
     login_input = browser.find_element(By.XPATH,
                                        "/html/body/div[3]/div/div/div/div/div/div/div/div[1]/form/div/div[1]/label/div/div/input")
     sleep(2)
-    login_input.send_keys('test5_for_content@avito.ru')  # ввод тестового логина в поле "Телефон или почта"
+    login_input.send_keys('79625601280')  # ввод тестового логина в поле "Телефон или почта"
     sleep(2)
 
     password_input = browser.find_element(By.XPATH,
                                           "/html/body/div[3]/div/div/div/div/div/div/div/div[1]/form/div/label/div/div/input")
     sleep(2)
-    password_input.send_keys('i~yrg2G$0z') # ввод тестового пароля в поле "Пароль"
+    password_input.send_keys('Reginarushanovna99') # ввод тестового пароля в поле "Пароль"
     sleep(2)
 
     browser.find_element(By.CLASS_NAME, 'css-kj8sh1').click()  # нажатие на кнопку "Войти"
