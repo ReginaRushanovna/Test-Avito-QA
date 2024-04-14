@@ -37,9 +37,9 @@
 
 **[PyCharm](https://www.jetbrains.com/ru-ru/pycharm/download/?section=windows)** — среда разработки.
 
-**[Selenium](https://www.selenium.dev/downloads/?ref=msyanblog.com)** — это библиотека для автоматизированного тестирования веб-приложений.
+**[Selenium](https://www.selenium.dev/downloads/?ref=msyanblog.com)** — библиотека для автоматизированного тестирования.
 
-**[Pytest](https://pytest-docs-ru.readthedocs.io/ru/latest/getting-started.html)** — это фреймворк для тестирования кода на Python. 
+**[Pytest](https://pytest-docs-ru.readthedocs.io/ru/latest/getting-started.html)** — фреймворк для тестирования кода на Python. 
 
 ## Структура реозитория Test-Avito-QA
 
